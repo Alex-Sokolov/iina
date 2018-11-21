@@ -343,7 +343,7 @@
 "d9c-me-L2H.title" = "Главы";
 
 /* Class = "NSMenu"; title = "Transformations"; ObjectID = "dBM-BU-5xS"; */
-"dBM-BU-5xS.title" = "Пркобразовать";
+"dBM-BU-5xS.title" = "Преобразовать";
 
 /* Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ"; */
 "dMs-cI-mzQ.title" = "Файл";
